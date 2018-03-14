@@ -37,6 +37,12 @@
 #include <sys/time.h>
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <zmalloc.h>
+#include <string.h>
+#include <elf.h>
+#include "zconf.h"
+#include "ae.h"
 
 static int evport_debug = 0;
 

@@ -30,6 +30,9 @@
 
 
 #include <string.h>
+#include <zconf.h>
+#include <zmalloc.h>
+#include "ae.h"
 
 typedef struct aeApiState {
     fd_set rfds, wfds;
