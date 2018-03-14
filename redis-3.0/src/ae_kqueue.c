@@ -33,6 +33,7 @@
 #include <sys/event.h>
 #include <sys/time.h>
 #include <zmalloc.h>
+#include <zconf.h>
 #include "ae.h"
 
 typedef struct aeApiState {
