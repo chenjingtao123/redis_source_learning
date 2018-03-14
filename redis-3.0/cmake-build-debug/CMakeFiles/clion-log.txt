@@ -1,4 +1,18 @@
-/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/redis/redis-3.0
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/redis/redis_source_learning/redis-3.0
+-- The C compiler identification is GNU 4.9.2
+-- The CXX compiler identification is GNU 4.9.2
+-- Check for working C compiler: /opt/rh/devtoolset-3/root/usr/bin/cc
+-- Check for working C compiler: /opt/rh/devtoolset-3/root/usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /opt/rh/devtoolset-3/root/usr/bin/c++
+-- Check for working CXX compiler: /opt/rh/devtoolset-3/root/usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /root/redis/redis-3.0/cmake-build-debug
+-- Build files have been written to: /root/redis/redis_source_learning/redis-3.0/cmake-build-debug

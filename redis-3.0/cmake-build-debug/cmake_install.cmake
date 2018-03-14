@@ -1,4 +1,4 @@
-# Install script for directory: /root/redis/redis-3.0
+# Install script for directory: /root/redis/redis_source_learning/redis-3.0
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/root/redis/redis-3.0/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/root/redis/redis_source_learning/redis-3.0/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

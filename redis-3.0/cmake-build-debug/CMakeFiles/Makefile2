@@ -54,10 +54,10 @@ RM = /root/cmake3.6.3/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /root/redis/redis-3.0
+CMAKE_SOURCE_DIR = /root/redis/redis_source_learning/redis-3.0
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /root/redis/redis-3.0/cmake-build-debug
+CMAKE_BINARY_DIR = /root/redis/redis_source_learning/redis-3.0/cmake-build-debug
 
 #=============================================================================
 # Special targets to cleanup operation of make.

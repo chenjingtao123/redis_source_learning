@@ -1,2 +1,2 @@
-/root/redis/redis-3.0/cmake-build-debug/CMakeFiles/edit_cache.dir
-/root/redis/redis-3.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/redis/redis_source_learning/redis-3.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/redis/redis_source_learning/redis-3.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
